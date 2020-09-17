@@ -1,0 +1,35 @@
+div{
+    position: relative;
+    text-align: center;
+    border: 2px solid black;
+    top: 20vh;
+    border-radius: 10px;
+}
+h1,h2,h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+}
+body{
+    background-color: lightblue;
+}
+p{
+    font-family: 'Cambria', serif;
+}
+input{
+    display: block;
+    padding: 10px;
+    border-radius: 2px;
+    position: relative;
+    left: 35vw;
+    font-family: 'Cambria', serif;
+}
+button{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 2px;
+    font-family: 'Cambria', serif;
+}
+button:hover{
+    background-color: lightblue;
+    border-color: blue;
+    font-weight: 900;
+}
